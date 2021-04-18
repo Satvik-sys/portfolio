@@ -1,0 +1,32 @@
+body{
+text-align: center;
+}
+
+.hi{
+ width: 200px;
+ border-radius: 50%;
+    margin-top: 20%;
+}
+
+#welcome{
+  width: 100%;
+  height: 800px;
+  color: white;
+  background: linear-gradient(#32a8a4 0%, #f2fa02 100%);
+}
+
+h1{
+    font-size: 30px;
+}
+
+.line{
+  height: 6px;
+  background-color: black;
+  width: 70px;
+  margin: 8px auto;
+}
+
+p{
+max-width: 500px;
+margin: 25px auto;
+}
